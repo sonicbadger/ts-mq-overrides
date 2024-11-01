@@ -1,5 +1,5 @@
 @media screen and (max-width: 900px) {
     [data-testid="left-nav-bar-component"] {
-        display: 'none !important';
+        display: none !important;
     }
 }
