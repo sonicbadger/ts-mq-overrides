@@ -1,5 +1,5 @@
 @media screen and (max-width: 900px) {
-    div[data-testid="left-nav-bar-component"] {
+    [data-testid="left-nav-bar-component"] {
         display: 'none !important';
     }
 }
